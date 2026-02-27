@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="EasyA Kickstart – Agent Skills for Base" width="100%" />
+</p>
+
 # Kickstart Skills
 
 Agent skills for creating tokens on [EasyA Kickstart](https://kickstart.easya.io), a fair launch launchpad on Base.
