@@ -24,14 +24,6 @@ Create tokens on Kickstart using just `curl` and `cast` (Foundry). No SDK, no AP
 - Deploy tokens with bonding curves on Base mainnet
 - Zero dependencies beyond a wallet and Foundry
 
-### agent-website
-
-Maintain the public website for a Kickstart agent token inside the agent's Sprite runtime.
-
-- Create, repair, or redesign the `site/` workspace
-- Preserve the `site/start.sh` contract
-- Keep the public site serving on `0.0.0.0:8080`
-
 ## Links
 
 - [Kickstart](https://kickstart.easya.io)
